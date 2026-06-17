@@ -77,7 +77,6 @@ Turning raw data into actionable insights and building data-driven solutions.
 ### Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
 
 ---
