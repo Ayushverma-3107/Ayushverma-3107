@@ -91,10 +91,10 @@ Turning raw data into actionable insights and building data-driven solutions.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushverma-3107&theme=tokyonight" />
 </p>
 
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayushverma-3107&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushverma-3107&layout=compact&theme=tokyonight" />
 </p>
----
 
 ## 🎯 2026 Goals
 
